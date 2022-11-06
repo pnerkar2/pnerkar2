@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **pnerkar2/pnerkar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am currently doing my masters majoring in Business Analytics from Gies College of Business. 
@@ -19,4 +19,4 @@ Proficiency in R, python, Excel, SQL and Tableau
 - 💬 Ask me about Data visualization, Predictive models, Classification models, Natural language processing, Web Scraping, Big data infrastructures and Causal Analysis
 - 📫 How to reach me: You can reach me on linkedin https://www.linkedin.com/in/prachi-nerkar/
 - ⚡ Fun fact: To take a break from analyzing data, I explore new places with new people to keep myself in practice.
--->
+
