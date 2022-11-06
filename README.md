@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**pnerkar2/pnerkar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am currently doing my masters majoring in Business Analytics from Gies College of Business. 
 
 “What” and “Why” are two of my favorite questions. This preference is not due to their widespread use, but rather to the assistance these questions provide in making outstanding decisions.
